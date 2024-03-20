@@ -56,9 +56,9 @@ Hospital management system is a website which can control all the management rel
 
 ## Credentials
 
-ID - 100
+ID - 1710948437533
 
-Password - masai
+Password - Test@1234
 
 ## Features
 
@@ -74,8 +74,6 @@ Password - masai
 Dashboard - https://hm-system.netlify.app/
 
 User Side - https://hms-user-side.netlify.app/
-
-Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ## Screenshots
 
