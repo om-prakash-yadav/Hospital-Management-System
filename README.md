@@ -69,11 +69,6 @@ Password - Test@1234
 - Generating reports 
 - Overall control of hospital
 
-## 🔗 Links
-
-Dashboard - https://hm-system.netlify.app/
-
-User Side - https://hms-user-side.netlify.app/
 
 ## Screenshots
 
